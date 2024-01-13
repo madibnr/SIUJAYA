@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293133056726",
+    "project_id": "siujaya-9950d",
+    "storage_bucket": "siujaya-9950d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293133056726:android:1ce413881999190726e777",
+        "android_client_info": {
+          "package_name": "com.siu.siujaya.siujaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTuIbtkBKjJV6_9Ptxv0YX2CzLUUBz44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
